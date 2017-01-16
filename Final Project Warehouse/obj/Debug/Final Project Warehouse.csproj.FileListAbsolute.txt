@@ -1,0 +1,19 @@
+c:\users\yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\Final Project Warehouse.exe.config
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\Final Project Warehouse.exe
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\Final Project Warehouse.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final Project Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final_Project_Warehouse.LoginForm.resources
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final_Project_Warehouse.Properties.Resources.resources
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final Project Warehouse.csproj.GenerateResource.Cache
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final Project Warehouse.exe
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final Project Warehouse.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final_Project_Warehouse.MainForm.resources
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\DBClasses.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\DBClasses.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final_Project_Warehouse.ViewPurchase.resources
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final_Project_Warehouse.PayBalance.resources
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\obj\Debug\Final_Project_Warehouse.RegisterForm.resources
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\DBModel.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\EntityFramework.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\DBModel.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\Final Project Warehouse\bin\Debug\EntityFramework.xml

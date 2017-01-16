@@ -1,0 +1,14 @@
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\DBModel.dll.config
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\DBModel.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\DBModel.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\DBClasses.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\EntityFramework.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\DBClasses.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\EntityFramework.xml
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\obj\Debug\DBModel.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\obj\Debug\DBModel.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\obj\Debug\DBModel.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\obj\Debug\DBModel.Migrations.Initial.resources
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBModel\obj\Debug\DBModel.csproj.GenerateResource.Cache

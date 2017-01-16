@@ -1,0 +1,5 @@
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBClasses\bin\Debug\DBClasses.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBClasses\bin\Debug\DBClasses.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBClasses\obj\Debug\DBClasses.dll
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBClasses\obj\Debug\DBClasses.pdb
+C:\Users\Yoni\documents\visual studio 2015\Projects\Final Project Warehouse\DBClasses\obj\Debug\DBClasses.csprojResolveAssemblyReference.cache
